@@ -1,3 +1,6 @@
 
 # Ignore junk node modules
 node_modules/
+
+# Ignore linux junk
+.fuse*
