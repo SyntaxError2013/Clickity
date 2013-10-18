@@ -4,3 +4,6 @@ node_modules/
 
 # Ignore linux junk
 .fuse*
+
+public/javascripts/collector.coffee
+public/javascripts/collector.js
