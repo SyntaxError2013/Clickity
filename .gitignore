@@ -1,0 +1,3 @@
+
+# Ignore junk node modules
+node_modules/
